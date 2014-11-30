@@ -94,12 +94,15 @@ function apply(_outer_env, options)
     ["CPPDEFS_DEBUG"] = "",
     ["CPPDEFS_PRODUCTION"] = "",
     ["CPPDEFS_RELEASE"] = "",
+    ["CPPDEFS_RTEST"] = "",
     ["CCOPTS_DEBUG"] = "",
     ["CCOPTS_PRODUCTION"] = "",
     ["CCOPTS_RELEASE"] = "",
+    ["CCOPTS_RTEST"] = "",
     ["CXXOPTS_DEBUG"] = "",
     ["CXXOPTS_PRODUCTION"] = "",
     ["CXXOPTS_RELEASE"] = "",
+    ["CXXOPTS_RTEST"] = "",
     ["SHLIBLINKSUFFIX"] = "",
   }
 end

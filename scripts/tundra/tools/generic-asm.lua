@@ -69,10 +69,12 @@ function apply(_outer_env, options)
     ["ASMDEFS_DEBUG"] = "",
     ["ASMDEFS_PRODUCTION"] = "",
     ["ASMDEFS_RELEASE"] = "",
+    ["ASMDEFS_RTEST"] = "",
     ["ASMOPTS"] = "",
     ["ASMOPTS_DEBUG"] = "",
     ["ASMOPTS_PRODUCTION"] = "",
     ["ASMOPTS_RELEASE"] = "",
+    ["ASMOPTS_RTEST"] = "",
   }
 end
 
